@@ -1,0 +1,17 @@
+---
+info:
+  name: validator_3
+  account-address: "0x824371c4b0c3b655fb7844c12372dfd69071513bde7f9e840550fb210ea7ec2a"
+  protocol-key: iB2huqlP6SwVd9/NCi4UF2aiQd5ZzgeG8JYech/YPAL8TgCRWCfvgyknT8vvJmoXDbQSJ7oMUKQFR15TbYbDb2K32QcrC/EvePO0BhOp9cPh7Xk4wVFOYRRj+f40QUM3
+  worker-key: 6EHYMMSI8vb7z3/ad73+3wegl7f3eEQYpFGYEzUqroQ=
+  network-key: aVVfwmlS/eRD9RBjUERVloM1vlvthfkFplIxH5357fc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/0.0.0.0/tcp/8080/http
+  p2p-address: /ip4/0.0.0.0/udp/8084/http
+  narwhal-primary-address: /ip4/0.0.0.0/udp/8081/http
+  narwhal-worker-address: /ip4/0.0.0.0/udp/8082/http
+  description: sui_local_validator_3
+  image-url: "https://hub.docker.com/layers/mysten/sui-node/48c5f81c7d409e8f47a37c83b6b43a8919c2d441/images/sha256-10245d7322e959ba37cec4ca0d2171a462793622d6a58611f71cf929641fc328?context=explore"
+  project-url: "https://github.com/MystenLabs/sui"
+proof_of_possession: gX7OeFAmc4OJZw1as+3xX1tE2KJ6o24NX82vpLJfJSt5Vk0DNDq3iLwK5OrygnLE
